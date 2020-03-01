@@ -47,6 +47,7 @@ body {
     height: 860px;
     background-color: #2d303a;
     border-bottom: 6px solid #323746;
+    padding: 40px;
 }
 
 .portfolio_text h1 {
@@ -59,18 +60,21 @@ body {
 }
 
 .portfolio_text p {
-        width: 940px;
-    height: 57px;
+
     font-size: 18px;
     line-height: 30px;
     color: #767e9e;
     font-family: "Lato";
     font-weight: 300;
     text-align: left;
+    width: 940px;
+    margin: 0 auto;
 }
 
 .tags {
     display: flex;
+    justify-content: space-between;
+    width: 290px;
     
 }
 
@@ -88,7 +92,8 @@ body {
 .thumbs {
     display: flex;
     flex-wrap: wrap;
-    
+    justify-content: space-between;
+    overflow: hidden;
 }
 
 .aboutus {
