@@ -1,0 +1,1 @@
+[Full singolo project](https://w3code.github.io/singolo/)
