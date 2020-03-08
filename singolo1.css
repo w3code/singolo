@@ -260,3 +260,7 @@ h2 {
     text-align: left;
     margin-bottom: 9px;
 }
+
+.interactive:hover {
+    opacity: 0.6;
+  }
